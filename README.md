@@ -1,4 +1,5 @@
 # st - simple terminal
+### v6.0
 
 ## patches
 
